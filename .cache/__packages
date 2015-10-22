@@ -1,0 +1,15 @@
+base
+shiny
+rCharts
+markdown
+ggplot2
+ggvis
+data.table
+reshape2
+dplyr
+maps
+mapproj
+rsconnect
+devtools
+slidify
+knitr
